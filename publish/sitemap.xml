@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://realforteatacadista.netlify.app/kit-lojas-prontas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://realforteatacadista.netlify.app/caneca-escolar-270ml-com-12-unidades</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -23,6 +17,12 @@
       <loc>https://realforteatacadista.netlify.app/kit-com-120-copos-e-canecas-plasticas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://realforteatacadista.netlify.app/kit-lojas-prontas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
